@@ -1,0 +1,16 @@
+C:\Users\julie\Documents\Epsi\C#\Exercices\training\PersonnelConsole\PersonnelConsole\bin\Debug\netcoreapp3.1\PersonnelConsole.exe
+C:\Users\julie\Documents\Epsi\C#\Exercices\training\PersonnelConsole\PersonnelConsole\bin\Debug\netcoreapp3.1\PersonnelConsole.deps.json
+C:\Users\julie\Documents\Epsi\C#\Exercices\training\PersonnelConsole\PersonnelConsole\bin\Debug\netcoreapp3.1\PersonnelConsole.runtimeconfig.json
+C:\Users\julie\Documents\Epsi\C#\Exercices\training\PersonnelConsole\PersonnelConsole\bin\Debug\netcoreapp3.1\PersonnelConsole.runtimeconfig.dev.json
+C:\Users\julie\Documents\Epsi\C#\Exercices\training\PersonnelConsole\PersonnelConsole\bin\Debug\netcoreapp3.1\PersonnelConsole.dll
+C:\Users\julie\Documents\Epsi\C#\Exercices\training\PersonnelConsole\PersonnelConsole\bin\Debug\netcoreapp3.1\PersonnelConsole.pdb
+C:\Users\julie\Documents\Epsi\C#\Exercices\training\PersonnelConsole\PersonnelConsole\bin\Debug\netcoreapp3.1\PersonnelLibrary.dll
+C:\Users\julie\Documents\Epsi\C#\Exercices\training\PersonnelConsole\PersonnelConsole\bin\Debug\netcoreapp3.1\PersonnelLibrary.pdb
+C:\Users\julie\Documents\Epsi\C#\Exercices\training\PersonnelConsole\PersonnelConsole\obj\Debug\netcoreapp3.1\PersonnelConsole.csprojAssemblyReference.cache
+C:\Users\julie\Documents\Epsi\C#\Exercices\training\PersonnelConsole\PersonnelConsole\obj\Debug\netcoreapp3.1\PersonnelConsole.AssemblyInfoInputs.cache
+C:\Users\julie\Documents\Epsi\C#\Exercices\training\PersonnelConsole\PersonnelConsole\obj\Debug\netcoreapp3.1\PersonnelConsole.AssemblyInfo.cs
+C:\Users\julie\Documents\Epsi\C#\Exercices\training\PersonnelConsole\PersonnelConsole\obj\Debug\netcoreapp3.1\PersonnelConsole.csproj.CoreCompileInputs.cache
+C:\Users\julie\Documents\Epsi\C#\Exercices\training\PersonnelConsole\PersonnelConsole\obj\Debug\netcoreapp3.1\PersonnelConsole.csproj.CopyComplete
+C:\Users\julie\Documents\Epsi\C#\Exercices\training\PersonnelConsole\PersonnelConsole\obj\Debug\netcoreapp3.1\PersonnelConsole.dll
+C:\Users\julie\Documents\Epsi\C#\Exercices\training\PersonnelConsole\PersonnelConsole\obj\Debug\netcoreapp3.1\PersonnelConsole.pdb
+C:\Users\julie\Documents\Epsi\C#\Exercices\training\PersonnelConsole\PersonnelConsole\obj\Debug\netcoreapp3.1\PersonnelConsole.genruntimeconfig.cache

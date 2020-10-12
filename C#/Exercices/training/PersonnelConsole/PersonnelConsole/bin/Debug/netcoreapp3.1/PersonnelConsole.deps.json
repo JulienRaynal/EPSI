@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PersonnelConsole/1.0.0": {
+        "dependencies": {
+          "PersonnelLibrary": "1.0.0"
+        },
+        "runtime": {
+          "PersonnelConsole.dll": {}
+        }
+      },
+      "PersonnelLibrary/1.0.0": {
+        "runtime": {
+          "PersonnelLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PersonnelConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PersonnelLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

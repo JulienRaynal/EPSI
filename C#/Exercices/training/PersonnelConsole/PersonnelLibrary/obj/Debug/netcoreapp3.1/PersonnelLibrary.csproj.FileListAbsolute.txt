@@ -1,0 +1,9 @@
+C:\Users\julie\Documents\Epsi\C#\Exercices\training\PersonnelConsole\PersonnelLibrary\bin\Debug\netcoreapp3.1\PersonnelLibrary.deps.json
+C:\Users\julie\Documents\Epsi\C#\Exercices\training\PersonnelConsole\PersonnelLibrary\bin\Debug\netcoreapp3.1\PersonnelLibrary.dll
+C:\Users\julie\Documents\Epsi\C#\Exercices\training\PersonnelConsole\PersonnelLibrary\bin\Debug\netcoreapp3.1\PersonnelLibrary.pdb
+C:\Users\julie\Documents\Epsi\C#\Exercices\training\PersonnelConsole\PersonnelLibrary\obj\Debug\netcoreapp3.1\PersonnelLibrary.AssemblyInfoInputs.cache
+C:\Users\julie\Documents\Epsi\C#\Exercices\training\PersonnelConsole\PersonnelLibrary\obj\Debug\netcoreapp3.1\PersonnelLibrary.AssemblyInfo.cs
+C:\Users\julie\Documents\Epsi\C#\Exercices\training\PersonnelConsole\PersonnelLibrary\obj\Debug\netcoreapp3.1\PersonnelLibrary.csproj.CoreCompileInputs.cache
+C:\Users\julie\Documents\Epsi\C#\Exercices\training\PersonnelConsole\PersonnelLibrary\obj\Debug\netcoreapp3.1\PersonnelLibrary.dll
+C:\Users\julie\Documents\Epsi\C#\Exercices\training\PersonnelConsole\PersonnelLibrary\obj\Debug\netcoreapp3.1\PersonnelLibrary.pdb
+C:\Users\julie\Documents\Epsi\C#\Exercices\training\PersonnelConsole\PersonnelLibrary\obj\Debug\netcoreapp3.1\PersonnelLibrary.csprojAssemblyReference.cache
