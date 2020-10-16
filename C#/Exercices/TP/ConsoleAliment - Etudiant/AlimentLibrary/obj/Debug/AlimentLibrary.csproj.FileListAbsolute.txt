@@ -1,0 +1,6 @@
+C:\Users\julie\Documents\Epsi\C#\Exercices\TP\ConsoleAliment - Etudiant\AlimentLibrary\obj\Debug\AlimentLibrary.csprojAssemblyReference.cache
+C:\Users\julie\Documents\Epsi\C#\Exercices\TP\ConsoleAliment - Etudiant\AlimentLibrary\obj\Debug\AlimentLibrary.csproj.CoreCompileInputs.cache
+C:\Users\julie\Documents\Epsi\C#\Exercices\TP\ConsoleAliment - Etudiant\AlimentLibrary\bin\Debug\AlimentLibrary.dll
+C:\Users\julie\Documents\Epsi\C#\Exercices\TP\ConsoleAliment - Etudiant\AlimentLibrary\bin\Debug\AlimentLibrary.pdb
+C:\Users\julie\Documents\Epsi\C#\Exercices\TP\ConsoleAliment - Etudiant\AlimentLibrary\obj\Debug\AlimentLibrary.dll
+C:\Users\julie\Documents\Epsi\C#\Exercices\TP\ConsoleAliment - Etudiant\AlimentLibrary\obj\Debug\AlimentLibrary.pdb

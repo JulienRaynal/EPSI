@@ -1,0 +1,10 @@
+C:\Users\julie\Documents\Epsi\C#\Exercices\TP\ConsoleAliment - Etudiant\ConsoleAliment\obj\Debug\ConsoleAliment.csprojAssemblyReference.cache
+C:\Users\julie\Documents\Epsi\C#\Exercices\TP\ConsoleAliment - Etudiant\ConsoleAliment\obj\Debug\ConsoleAliment.csproj.CoreCompileInputs.cache
+C:\Users\julie\Documents\Epsi\C#\Exercices\TP\ConsoleAliment - Etudiant\ConsoleAliment\bin\Debug\ConsoleAliment.exe.config
+C:\Users\julie\Documents\Epsi\C#\Exercices\TP\ConsoleAliment - Etudiant\ConsoleAliment\bin\Debug\ConsoleAliment.exe
+C:\Users\julie\Documents\Epsi\C#\Exercices\TP\ConsoleAliment - Etudiant\ConsoleAliment\bin\Debug\ConsoleAliment.pdb
+C:\Users\julie\Documents\Epsi\C#\Exercices\TP\ConsoleAliment - Etudiant\ConsoleAliment\bin\Debug\AlimentLibrary.dll
+C:\Users\julie\Documents\Epsi\C#\Exercices\TP\ConsoleAliment - Etudiant\ConsoleAliment\bin\Debug\AlimentLibrary.pdb
+C:\Users\julie\Documents\Epsi\C#\Exercices\TP\ConsoleAliment - Etudiant\ConsoleAliment\obj\Debug\ConsoleAliment.csproj.CopyComplete
+C:\Users\julie\Documents\Epsi\C#\Exercices\TP\ConsoleAliment - Etudiant\ConsoleAliment\obj\Debug\ConsoleAliment.exe
+C:\Users\julie\Documents\Epsi\C#\Exercices\TP\ConsoleAliment - Etudiant\ConsoleAliment\obj\Debug\ConsoleAliment.pdb
