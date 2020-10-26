@@ -25,14 +25,14 @@ namespace PersonnelLibrary
         #endregion
 
         #region Methode CRUD
-        public bool AjouterPersonne(Employe personne)
+        public bool AjouterPersonne(Personnel personne)
         {
             if (personne == null)
             {
                 throw new PersonneNullReferenceException("Personne à AJOUTER n'as pas pu être ajouté car elle est null");
             }
 
-            Employe p = RechercherPersonne(personne.Id);
+            Personnel p = RechercherPersonne(personne.Id);
             if (p == null)
             {
                 ListPersonnel.Add(personne);
@@ -168,9 +168,14 @@ namespace PersonnelLibrary
 
         #region Constructeur
         public Entreprise(List<Personnel> listPersonnel, List<Services> listService)
+            : this()
         {
             ListPersonnel = listPersonnel;
             ListService = listService;
+        }
+        public Entreprise() {
+            ListPersonnel = new List<Personnel>();
+            ListService = new List<Services>();
         }
         #endregion
     }
