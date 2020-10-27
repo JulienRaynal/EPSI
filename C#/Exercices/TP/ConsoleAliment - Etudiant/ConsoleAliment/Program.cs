@@ -25,15 +25,15 @@ namespace ConsoleAliment
             mesPlats.AfficherPlats();
 
             List<Plat> liste = mesPlats.RechercherPlatsParCalorie(5, 600);
-            AfficherPlats(liste);
-        }
+/*            AfficherPlats(liste);
+*/        }
 
-        static void AfficherPlats(List<Plat> liste)
+/*        static void AfficherPlats(List<Plat> liste)
         {
-            foreach(Plat p in liste)
+            foreach (Plat p in liste)
             {
                 Console.WriteLine(p.FicheDescriptive);
             }
-        }
+        }*/
     }
 }

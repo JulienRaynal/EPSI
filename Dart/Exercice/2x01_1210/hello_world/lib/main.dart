@@ -39,7 +39,14 @@ class Squalala extends StatelessWidget {
       //SafeArea allows to avoid rounded border and status bar
       body: SafeArea(
         child: Column(
-          children: [Text("text"), Text("text"), Text("text")],
+          children: [
+            Text("text"),
+            Text("text"),
+            Text("text"),
+            Row(
+              children: [Icon(Icons.access_alarms)],
+            )
+          ],
         ),
       ),
     );

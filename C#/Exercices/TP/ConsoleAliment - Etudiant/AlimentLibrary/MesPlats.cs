@@ -52,7 +52,7 @@ namespace AlimentLibrary
         public bool ModifierPlat(Plat plat)
         {
             /** TODO : A faire - Il ne faut modifer que la quantité */
-            if (plat != null)
+            if (plat == null)
             {
                 throw new Exception("Plat est null dans la modification : MesPlats");
             }
