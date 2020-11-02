@@ -52,6 +52,8 @@ class _HomeState extends State<Home> {
     return Scaffold(
       body: SafeArea(
         child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          crossAxisAlignment: CrossAxisAlignment.center,
           children: [
             ...?returnDisplay(),
             ElevatedButton(

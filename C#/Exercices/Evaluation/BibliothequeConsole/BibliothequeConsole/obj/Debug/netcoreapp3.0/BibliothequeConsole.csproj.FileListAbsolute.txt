@@ -1,0 +1,16 @@
+C:\Users\julie\Documents\Epsi\C#\Exercices\Evaluation\BibliothequeConsole\BibliothequeConsole\bin\Debug\netcoreapp3.0\BibliothequeConsole.exe
+C:\Users\julie\Documents\Epsi\C#\Exercices\Evaluation\BibliothequeConsole\BibliothequeConsole\bin\Debug\netcoreapp3.0\BibliothequeConsole.deps.json
+C:\Users\julie\Documents\Epsi\C#\Exercices\Evaluation\BibliothequeConsole\BibliothequeConsole\bin\Debug\netcoreapp3.0\BibliothequeConsole.runtimeconfig.json
+C:\Users\julie\Documents\Epsi\C#\Exercices\Evaluation\BibliothequeConsole\BibliothequeConsole\bin\Debug\netcoreapp3.0\BibliothequeConsole.runtimeconfig.dev.json
+C:\Users\julie\Documents\Epsi\C#\Exercices\Evaluation\BibliothequeConsole\BibliothequeConsole\bin\Debug\netcoreapp3.0\BibliothequeConsole.dll
+C:\Users\julie\Documents\Epsi\C#\Exercices\Evaluation\BibliothequeConsole\BibliothequeConsole\bin\Debug\netcoreapp3.0\BibliothequeConsole.pdb
+C:\Users\julie\Documents\Epsi\C#\Exercices\Evaluation\BibliothequeConsole\BibliothequeConsole\bin\Debug\netcoreapp3.0\BibliothequeLibrary.dll
+C:\Users\julie\Documents\Epsi\C#\Exercices\Evaluation\BibliothequeConsole\BibliothequeConsole\bin\Debug\netcoreapp3.0\BibliothequeLibrary.pdb
+C:\Users\julie\Documents\Epsi\C#\Exercices\Evaluation\BibliothequeConsole\BibliothequeConsole\obj\Debug\netcoreapp3.0\BibliothequeConsole.csprojAssemblyReference.cache
+C:\Users\julie\Documents\Epsi\C#\Exercices\Evaluation\BibliothequeConsole\BibliothequeConsole\obj\Debug\netcoreapp3.0\BibliothequeConsole.AssemblyInfoInputs.cache
+C:\Users\julie\Documents\Epsi\C#\Exercices\Evaluation\BibliothequeConsole\BibliothequeConsole\obj\Debug\netcoreapp3.0\BibliothequeConsole.AssemblyInfo.cs
+C:\Users\julie\Documents\Epsi\C#\Exercices\Evaluation\BibliothequeConsole\BibliothequeConsole\obj\Debug\netcoreapp3.0\BibliothequeConsole.csproj.CoreCompileInputs.cache
+C:\Users\julie\Documents\Epsi\C#\Exercices\Evaluation\BibliothequeConsole\BibliothequeConsole\obj\Debug\netcoreapp3.0\BibliothequeConsole.csproj.CopyComplete
+C:\Users\julie\Documents\Epsi\C#\Exercices\Evaluation\BibliothequeConsole\BibliothequeConsole\obj\Debug\netcoreapp3.0\BibliothequeConsole.dll
+C:\Users\julie\Documents\Epsi\C#\Exercices\Evaluation\BibliothequeConsole\BibliothequeConsole\obj\Debug\netcoreapp3.0\BibliothequeConsole.pdb
+C:\Users\julie\Documents\Epsi\C#\Exercices\Evaluation\BibliothequeConsole\BibliothequeConsole\obj\Debug\netcoreapp3.0\BibliothequeConsole.genruntimeconfig.cache

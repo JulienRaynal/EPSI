@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2PlQJ7yFaLxR1xLD+gTWIGHwjAJNn7w3uP7Pz65w+E9iJEqutj4OzTBTnY5Po+KE3Vjby4SfztbN+2LVbevwxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\julie\\Documents\\Epsi\\C#\\Exercices\\Evaluation\\BibliothequeConsole\\BibliothequeLibrary\\BibliothequeLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julie\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\julie\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\julie\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

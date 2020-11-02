@@ -1,0 +1,9 @@
+C:\Users\julie\Documents\Epsi\C#\Exercices\Evaluation\BibliothequeConsole\BibliothequeLibrary\bin\Debug\netcoreapp3.0\BibliothequeLibrary.deps.json
+C:\Users\julie\Documents\Epsi\C#\Exercices\Evaluation\BibliothequeConsole\BibliothequeLibrary\bin\Debug\netcoreapp3.0\BibliothequeLibrary.dll
+C:\Users\julie\Documents\Epsi\C#\Exercices\Evaluation\BibliothequeConsole\BibliothequeLibrary\bin\Debug\netcoreapp3.0\BibliothequeLibrary.pdb
+C:\Users\julie\Documents\Epsi\C#\Exercices\Evaluation\BibliothequeConsole\BibliothequeLibrary\obj\Debug\netcoreapp3.0\BibliothequeLibrary.csprojAssemblyReference.cache
+C:\Users\julie\Documents\Epsi\C#\Exercices\Evaluation\BibliothequeConsole\BibliothequeLibrary\obj\Debug\netcoreapp3.0\BibliothequeLibrary.AssemblyInfoInputs.cache
+C:\Users\julie\Documents\Epsi\C#\Exercices\Evaluation\BibliothequeConsole\BibliothequeLibrary\obj\Debug\netcoreapp3.0\BibliothequeLibrary.AssemblyInfo.cs
+C:\Users\julie\Documents\Epsi\C#\Exercices\Evaluation\BibliothequeConsole\BibliothequeLibrary\obj\Debug\netcoreapp3.0\BibliothequeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\julie\Documents\Epsi\C#\Exercices\Evaluation\BibliothequeConsole\BibliothequeLibrary\obj\Debug\netcoreapp3.0\BibliothequeLibrary.dll
+C:\Users\julie\Documents\Epsi\C#\Exercices\Evaluation\BibliothequeConsole\BibliothequeLibrary\obj\Debug\netcoreapp3.0\BibliothequeLibrary.pdb
