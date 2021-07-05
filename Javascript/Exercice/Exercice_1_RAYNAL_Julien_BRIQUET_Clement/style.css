@@ -1,0 +1,10 @@
+button{
+    width: 50px;
+    height: 50px;
+    background-color: #ff744a;
+    border: none;
+}
+th{
+    background-color: #000000;
+    color: #ffffff;
+}
